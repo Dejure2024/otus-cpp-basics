@@ -16,10 +16,6 @@ MSVC (Microsoft Visual C++):
 *	Microsoft Visual Studio Code
 *	Microsoft Visual Studio Community Edition
 
-## Операционная система
-
-Windows 10
-
 ## Использование
 
 1. Скопируйте файл main.cpp в свою рабочую директорию.
@@ -43,6 +39,10 @@ g++ -std=c++17 main.cpp -o hello_world
 Hello, World!
 
 Это простая программа "Hello, World!" на языке программирования C++17. Она демонстрирует базовую структуру C++ программы и использование стандартного вывода.
+
+## Операционная система
+
+Windows 10
 
 ## Лицензия
 
