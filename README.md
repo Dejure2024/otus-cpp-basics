@@ -16,6 +16,10 @@ MSVC (Microsoft Visual C++):
 *	Microsoft Visual Studio Code
 *	Microsoft Visual Studio Community Edition
 
+## Операционная система
+
+Windows 10
+
 ## Использование
 
 1. Скопируйте файл main.cpp в свою рабочую директорию.
