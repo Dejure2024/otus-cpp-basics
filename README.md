@@ -10,7 +10,7 @@ GCC (GNU Compiler Collection):
 *	Версия 7.1.0 выпущенная в мае 2017 года и выше.
 
 MSVC (Microsoft Visual C++):
-*	Версия 19.10 (Visual Studio 2017) выпущенная в марте 2017 года и выше.
+*	Версия 17.9.0 (Visual Studio 2022) и выше.
 
 Среда разработки:
 *	Microsoft Visual Studio Code
