@@ -4,17 +4,17 @@
 
 ## Требования
 
-- Компилятор C++, поддерживающий стандарт 17: 14882:2017(E) – Programming Language C++
-  * GCC (GNU Compiler Collection):
-    Версия 6.3.0 выпущенная в декабре 2016 года и выше.
-    Версия 7.1.0 выпущенная в мае 2017 года и выше.
+Компилятор C++, поддерживающий стандарт 17: 14882:2017(E) – Programming Language C++
+GCC (GNU Compiler Collection):
+*	Версия 6.3.0 выпущенная в декабре 2016 года и выше.
+*	Версия 7.1.0 выпущенная в мае 2017 года и выше.
 
-  * MSVC (Microsoft Visual C++):
-    Версия 19.10 (Visual Studio 2017) выпущенная в марте 2017 года и выше.
+MSVC (Microsoft Visual C++):
+*	Версия 19.10 (Visual Studio 2017) выпущенная в марте 2017 года и выше.
 
-- Среда разработки:
-  * Microsoft Visual Studio Code
-  * Microsoft Visual Studio Community Edition
+Среда разработки:
+*	Microsoft Visual Studio Code
+*	Microsoft Visual Studio Community Edition
 
 ## Использование
 
