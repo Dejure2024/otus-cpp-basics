@@ -15,7 +15,6 @@
 - Среда разработки:
   * Microsoft Visual Studio Code
   * Microsoft Visual Studio Community Edition
-Терминал для компиляции и запуска программы.
 
 ## Использование
 
